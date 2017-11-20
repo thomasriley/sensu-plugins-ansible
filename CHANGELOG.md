@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
+### Security
+- Increase Rubocop version to 0.51+ (CVE-2017-8418)
 
 ## [1.0.0] - 2017-07-01
 ### Breaking Changes
